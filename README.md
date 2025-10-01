@@ -1,3 +1,4 @@
+[![Crowdin CI](https://github.com/funds123/ethereum-org-website/actions/workflows/funds123_safe_crowdin-ci.yml/badge.svg?branch=dependabot%2Fnpm_and_yarn%2Fnpm_and_yarn-2e7d040aad&event=workflow_run)](https://github.com/funds123/ethereum-org-website/actions/workflows/funds123_safe_crowdin-ci.yml)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e8f2e766-888b-4954-8500-1b647d84db99/deploy-status)](https://app.netlify.com/sites/ethereumorg/deploys)
 [![All Contributors](https://img.shields.io/github/all-contributors/ethereum/ethereum-org-website?color=orange&style=flat-square)](#contributors)
 [![Discord](https://img.shields.io/discord/714888181740339261?color=1C1CE1&label=ethereum.org%20%7C%20Discord%20%F0%9F%91%8B%20&style=flat-square)](https://discord.gg/ethereum-org)
